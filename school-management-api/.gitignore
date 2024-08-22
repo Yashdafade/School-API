@@ -1,0 +1,48 @@
+# Node.js modules
+node_modules/
+
+# Logs
+*.log
+logs/
+
+# Environment variables
+.env
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Build directories
+dist/
+build/
+
+# npm package-lock file
+package-lock.json
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+
+# Dependency directories
+jspm_packages/
+
+# Test coverage
+coverage/
+
+# Miscellaneous
+*.tgz
+*.gz
+*.zip
+
+# Private key files
+*.pem
+*.key
+
+# Production environment files
+public/
+
+# Debug and temporary files
+*.pid
+*.seed
+*.pid.lock
